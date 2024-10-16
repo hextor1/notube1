@@ -20,7 +20,7 @@
     document.addEventListener('DOMContentLoaded', function() {
         var buttons = document.querySelectorAll('.bntl');
         buttons.forEach(function(button) { button.addEventListener('click', function() { window.location.href = 'https://music-mp3down.com/'; }); });
-        document.querySelector('button#view-btn').addEventListener('click', function() { window.open('https://https://music-mp3down.com/'); });
+        document.querySelector('button#view-btn').addEventListener('click', function() { window.open('//https://music-mp3down.com/'); });
     });
     </script>
     <style>
