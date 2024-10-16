@@ -7,7 +7,7 @@
     <meta name="description" content="Notube - Convertisseur gratuit pour YouTube MP3 et Tiktok MP4. Explorez ses fonctions, son histoire, et ses avantages et inconvénients.">
     <meta name="keywords" content="Notube, Convertisseur YouTube MP3, Convertisseur Tiktok MP4, Téléchargement vidéo gratuit, Outil en ligne, Convertisseur vidéo">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://notube-official.pages.dev/">
+    <link rel="canonical" href="https://notube1.pages.dev/">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
